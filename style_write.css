@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Cooper Black';
-  src: url('font/cooper-black.ttf') format('truetype');
+  src: url('font/cooper-black.TTF') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -266,4 +266,5 @@ textarea {
     .stk {
     padding: 0 10px 20px 10px;
     }
+
 }
